@@ -1,0 +1,16 @@
+C:\Users\adipa\source\repos\Kursov proekt\Kursov proekt\bin\Debug\Kursov proekt.exe.config
+C:\Users\adipa\source\repos\Kursov proekt\Kursov proekt\bin\Debug\Kursov proekt.exe
+C:\Users\adipa\source\repos\Kursov proekt\Kursov proekt\bin\Debug\Kursov proekt.pdb
+C:\Users\adipa\source\repos\Kursov proekt\Kursov proekt\obj\Debug\Kursov proekt.csprojAssemblyReference.cache
+C:\Users\adipa\source\repos\Kursov proekt\Kursov proekt\obj\Debug\Kursov_proekt.Form1.resources
+C:\Users\adipa\source\repos\Kursov proekt\Kursov proekt\obj\Debug\Kursov_proekt.Properties.Resources.resources
+C:\Users\adipa\source\repos\Kursov proekt\Kursov proekt\obj\Debug\Kursov proekt.csproj.GenerateResource.cache
+C:\Users\adipa\source\repos\Kursov proekt\Kursov proekt\obj\Debug\Kursov proekt.csproj.CoreCompileInputs.cache
+C:\Users\adipa\source\repos\Kursov proekt\Kursov proekt\obj\Debug\Kursov proekt.exe
+C:\Users\adipa\source\repos\Kursov proekt\Kursov proekt\obj\Debug\Kursov proekt.pdb
+C:\Users\adipa\source\repos\Kursov proekt\Kursov proekt\obj\Debug\Kursov_proekt.Form2.resources
+C:\Users\adipa\source\repos\Kursov proekt\Kursov proekt\obj\Debug\Kursov_proekt.Form3.resources
+C:\Users\adipa\source\repos\Kursov proekt\Kursov proekt\obj\Debug\Kursov_proekt.Form4.resources
+C:\Users\adipa\source\repos\Kursov proekt\Kursov proekt\obj\Debug\Kursov_proekt.Form5.resources
+C:\Users\adipa\source\repos\Kursov proekt\Kursov proekt\obj\Debug\Kursov_proekt.Form6.resources
+C:\Users\adipa\source\repos\Kursov proekt\Kursov proekt\obj\Debug\Kursov_proekt.Form7.resources
